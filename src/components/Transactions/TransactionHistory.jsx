@@ -1,6 +1,6 @@
 import clsx from "clsx";
 
-import TableBody from "./tableBody";
+import TableBody from "./TableBody";
 import TableTitles from "./TableTitles";
 
 import css from "./Transactions.module.css";
