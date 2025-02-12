@@ -3,7 +3,7 @@ import clsx from "clsx";
 import TableTitles from "./TableTitles";
 
 import css from "./Transactions.module.css";
-import TableBody from "./tableBody";
+import TableBody from "./TableB";
 
 const TransactionHistory = (items) => {
   return (
