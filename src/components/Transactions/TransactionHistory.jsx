@@ -1,9 +1,9 @@
 import clsx from "clsx";
 
-import TableBody from "./TableBody";
 import TableTitles from "./TableTitles";
 
 import css from "./Transactions.module.css";
+import TableBody from "./tableBody";
 
 const TransactionHistory = (items) => {
   return (
